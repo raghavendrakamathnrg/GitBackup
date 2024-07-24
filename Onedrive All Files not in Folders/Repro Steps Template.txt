@@ -1,2 +1,8 @@
+Assigned to-
 Build-
 User-
+Device-
+iOS Version-
+Repro Steps-
+Expected Desc-
+Expected Vs Actual Screenshot-
