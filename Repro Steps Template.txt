@@ -1,7 +1,9 @@
 Assigned to-
 Build-
 User-
-Repro Step-
-Expected-
-Actual-
-Screenshot-
+Repro Steps-
+Expected Result Description-
+Expected Vs Actual Screenshot-
+Recording
+Cc
+Status Updation
