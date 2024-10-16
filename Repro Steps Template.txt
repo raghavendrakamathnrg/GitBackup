@@ -4,6 +4,6 @@ User-
 Repro Steps-
 Expected Result Description-
 Expected Vs Actual Screenshot-
-Recording
-Cc
-Status Updation
+Recording URL-
+Cc 
+Status Updation(For PBIs)
