@@ -1,0 +1,5 @@
+Repalce data between [ and  ] with 
+1)contains(@label,"kWh")
+2)contains(@value,"'+ BillScreenConstants.cardEndingValueDPP +'")
+
+Dynamic label generation-//XCUIElementTypeImage[1][@label="fa-info"]
