@@ -1,9 +1,0 @@
-Assigned to-
-Build-
-User-
-Repro Steps-
-Expected Result Description-
-Expected Vs Actual Screenshot-
-Recording URL-
-Cc @
-Tasks and Bugs to Done,Move to RTA
